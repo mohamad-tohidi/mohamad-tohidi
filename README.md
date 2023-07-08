@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Driver monitoring system**
 
-- 💬 Ask me about **Yolo,Unet,embedding CV**
+- 💬 Ask me about **Yolo,Unet,embedding CV,maixduino**
 
 - 📫 How to reach me **the.mohammad.tohidi@gmail.com**
 

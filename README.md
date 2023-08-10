@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Tohidi</h1>
-<h3 align="center">A passionate Computer vision developer from Iran.</h3>
+<h3 align="center">A passionate Computer vision developer.</h3>
 
 - 🔭 I’m currently working on **Driver monitoring system**
 
-- 💬 Ask me about **Yolo,Unet,embedding CV,maixduino**
+- 💬 Ask me about **Yolo,Unet,embedding CV**
 
 - 📫 How to reach me **the.mohammad.tohidi@gmail.com**
 
